@@ -1,0 +1,3 @@
+- 👋 Oi, eu sou Jadisson Amorim.
+- 👀 Eu sou atualmente um estudante de programação.
+- 🌱 Meus estudos estão focados em C# e .NET CORE
