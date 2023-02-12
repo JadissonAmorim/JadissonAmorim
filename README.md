@@ -1,3 +1,3 @@
 - 👋 Oi, eu sou Jadisson Amorim.
 - 👀 Atualmente trabalho com desenvolvimento e programção web/desktop.
-- 🌱 Meus estudos estão focados em C# e .NET CORE
+- 🌱 Meus estudos estão focados em C#,.NET & Angular
